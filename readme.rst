@@ -2,9 +2,9 @@
 
 > composer require chriskacerguis/codeigniter-restserver
 
-chown www:www application/controllers/*
-chown www:www public/
-chmod 755 public
+$chown www:www application/controllers/*
+$chown www:www public/
+$chmod 755 public    // make sure is writeable
 
 open localhost:xx/index.php/install/
 

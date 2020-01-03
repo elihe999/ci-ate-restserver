@@ -38,8 +38,9 @@ echo $test;
       <h1>Entry database setting:</h1>
       <p><label >Database host:</label></p><p><input type="text" name="host" value="localhost" /></p>
       <p><label >Database user name: </label></p><p><input type="text" name="username" /></p>
-      <p><label >Database name: </label></p><p><input type="text" name="dbname" /></p>
       <p><label >Database password: </label></p><p><input type="text" name="password" /></p>
+      <p><label >Database name: </label></p><p><input type="text" name="dbname" /></p>
+
       <p><input type="submit" class="button" value="submit" /></p>
     </form>
   </body>
