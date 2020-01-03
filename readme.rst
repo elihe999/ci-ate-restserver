@@ -2,6 +2,27 @@
 
 > composer require chriskacerguis/codeigniter-restserver
 
+chown www:www application/controllers/*
+chown www:www public/
+chmod 755 public
+
+open localhost:xx/index.php/install/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 rest.php at application/config
 
 use chriskacerguis\RestServer\RestController;

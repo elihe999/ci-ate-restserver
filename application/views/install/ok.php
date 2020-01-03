@@ -8,6 +8,4 @@ if (file_exists('./setup.lock')) {
     echo 'System seem been setup before' . "<br>";
 }
 
-//if ( )
-
 ?>
